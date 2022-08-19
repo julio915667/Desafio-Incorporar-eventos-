@@ -1,20 +1,3 @@
-/*let boton = document.getElementById("boton")
-
-boton.addEventListener('click', function(){
-     alert("toco el boton")
-
-})
-let boton = document.getElementById("liveToastBtn");
-
-boton.addEventListener('click', function(){
-    // alert("Agregado al Carrito")
-     boton.innerHTML= "Añadido al Carrito"
-     boton.style.background= "red"
-     boton.style.fontWeight = "bold"
-})*/
-
-
-
 
 const computer = [{
           name: "PC DE OFICINA",
